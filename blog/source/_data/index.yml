@@ -3,41 +3,43 @@
 # title:        大标题
 # subtitle:     小标题，描述性
 #
-- name: album
-  id: 
-  title: 工作
-  subtitle: 只需要改变 2 个颜色就会让你的站点焕然一新
-  partial: album
-  bg_color: 
-  fluid: 
-  more: 
 
-- name: customers
-  id: 
-  title: 生活
-  subtitle: 我们的客户来自世界上最好的公司
-  partials: [instapic, quotation]
-  bg_color: 
-  fluid: 
-  more: 
+- name:
+  id:
+  title: 工作
+  subtitle: 小程序开发、APP开发、网站建设、硬件开发
+  partial: page/stories
+  bg_color:
+  fluid:
+  more:
 
 - name: stories
   id: 
-  title: 日记
-  subtitle: 实践见真知既是最好的解释
-  partial: page/stories
-  bg_color: bg-light
-  fluid: 
-  more: 
-
-- name: archive
-  id: 
-  title: 新闻
-  subtitle: 汇聚热点话题 打造创新思路
+  title: 生活
+  subtitle: 读书、钓鱼、台球、经济、历史
   partial: archive
   bg_color: 
   fluid: 
+  more:
+
+- name: album
+  id:
+  title: 相册
+  subtitle: 记录瞬间的美好
+  partial: album
+  bg_color:
+  fluid:
+  more:
+
+- name: archives
+  id:
+  title: 日记
+  subtitle: 回首过去的故事
+  partial: archive
+  bg_color: bg-light
+  fluid:
   more: /archives/
+
 
 # - name: solution
 #   id: 
