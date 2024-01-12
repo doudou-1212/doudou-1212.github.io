@@ -1,8 +1,8 @@
 ---
 title: 岳阳楼记
-date: 2012-12-21 04:00:00
+date: 2013-12-21 04:00:00
 tags: 岳阳楼记
-categories: 
+categories: 日记
 keywords: 岳阳楼记,范仲淹
 description: 庆历四年春，滕子京谪守巴陵郡。越明年，政通人和，百废具兴，乃重修岳阳楼，增其旧制，刻唐贤今人诗赋于其上，属予作文以记之。
 photos: [

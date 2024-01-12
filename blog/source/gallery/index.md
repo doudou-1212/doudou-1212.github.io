@@ -1,5 +1,5 @@
 ---
-title: 画廊
+title: 生活
 data: gallery
 layout: plugins
 partial: gallery

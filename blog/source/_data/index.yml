@@ -5,7 +5,7 @@
 #
 - name: album
   id: 
-  title: 画廊
+  title: 工作
   subtitle: 只需要改变 2 个颜色就会让你的站点焕然一新
   partial: album
   bg_color: 
@@ -14,7 +14,7 @@
 
 - name: customers
   id: 
-  title: 客户
+  title: 生活
   subtitle: 我们的客户来自世界上最好的公司
   partials: [instapic, quotation]
   bg_color: 
@@ -23,7 +23,7 @@
 
 - name: stories
   id: 
-  title: 案例
+  title: 日记
   subtitle: 实践见真知既是最好的解释
   partial: page/stories
   bg_color: bg-light

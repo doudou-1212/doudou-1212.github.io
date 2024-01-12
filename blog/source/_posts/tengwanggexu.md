@@ -2,7 +2,7 @@
 title: 滕王阁序
 date: 2012-12-21 02:00:00
 tags: 滕王阁序
-categories: 
+categories: 生活
 keywords: 滕王阁序,王勃,初唐四杰
 description: 情由景生，写景是为抒情、景、情相互渗透，水乳交融。浑然天成，恰似行云流水，挥洒自如，自然流畅。
 photos: [
