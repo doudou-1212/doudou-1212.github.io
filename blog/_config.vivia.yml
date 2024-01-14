@@ -26,6 +26,8 @@ hue: 250                         # 主题色调 (例如：红: 0，橙: 60，蓝
 avatar: /images/avatar.jpg                        # 头像图片文件路径，相对于 /source 目录
 author: 逗逗
 subtitle: 采百家花，酿自己蜜
+qq: /images/contact/QQ.jpg
+weixin: /images/contact/weixin.jpg
 links:
   - name: QQ
     icon: fa-brands fa-qq      # 访问 https://fontawesome.com/search 获取图标代码
@@ -33,9 +35,9 @@ links:
   - name: 微信
     icon: fa-brands fa-weixin
     url: 15121038211
-  - name: 手机号
-    icon: fa-solid fa-phone
-    url: 15121038211
+#  - name: 手机号
+#    icon: fa-solid fa-phone
+#    url: 15121038211
 
 # 侧边栏
 sidebar:
