@@ -2,7 +2,7 @@
 title: 兰亭集序
 date: 2011-12-21 01:00:00
 tags: 兰亭集序
-categories: 工作
+categories: [工作,技术,客户端,Android]
 keywords: 兰亭集序,王羲之
 description: 永和九年，岁在癸丑，暮春之初，会于会稽山阴之兰亭，修禊事也。群贤毕至，少长咸集。
 photos: [
