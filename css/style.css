@@ -2905,6 +2905,22 @@ input[type="range"] {
   height: 40px;
   font-size: 24px;
 }
+.link-qq-img {
+  display: none;
+  width: 180px;
+  height: 20px;
+  z-index: 999;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+.link-weixin-img {
+  display: none;
+  width: 180px;
+  height: 20px;
+  z-index: 999;
+  margin-left: 35px;
+  margin-top: 10px;
+}
 .widget {
   line-height: 1.6em;
   word-wrap: break-word;
