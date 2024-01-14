@@ -826,6 +826,12 @@ navbar {
   height: 45px;
   max-height: 45px;
 }
+#title-nav .logo {
+  width: 53px;
+  max-width: 53px;
+  height: 45px;
+  max-height: 45px;
+}
 #main-nav {
   float: left;
   display: -webkit-box;
