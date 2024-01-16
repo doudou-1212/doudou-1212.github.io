@@ -2907,19 +2907,21 @@ input[type="range"] {
 }
 .link-qq-img {
   display: none;
+  position: absolute;
   width: 180px;
-  height: 20px;
+  height: 300px;
   z-index: 999;
-  margin-left: 30px;
-  margin-top: 10px;
+  margin-left: 40px;
+  margin-top: -350px;
 }
 .link-weixin-img {
   display: none;
+  position: absolute;
   width: 180px;
-  height: 20px;
+  height: 270px;
   z-index: 999;
-  margin-left: 35px;
-  margin-top: 10px;
+  margin-left: 40px;
+  margin-top: -350px;
 }
 .widget {
   line-height: 1.6em;
