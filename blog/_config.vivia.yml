@@ -24,7 +24,7 @@ hue: 250                         # 主题色调 (例如：红: 0，橙: 60，蓝
 
 # 个人信息
 avatar: /images/avatar.jpg                        # 头像图片文件路径，相对于 /source 目录
-author: 逗逗
+author: 逗逗（金毛）
 subtitle: 采百家花，酿自己蜜
 qq: /images/contact/QQ.jpg
 weixin: /images/contact/weixin.jpg
@@ -76,8 +76,22 @@ comment:
     lang:
     # 详见 https://github.com/imaegoo/twikoo
   waline:
-    enable: false          # 是否启用 Waline 评论系统
-    serverURL: 
+    enable: true          # 是否启用 Waline 评论系统
+    serverURL: https://waline.doudou1212.com
+    appid: 0lKsX8RC4FxUdFF37EjtNrQm-MdYXbMMI
+    appkey: syH7ts3doVcIGCthMTp2GbFV
+    notify: false # Mail notifier
+    verify: false # Verification code
+    placeholder: Just go go # Comment box placeholder
+    lang: zh-cn # 语言, 可选值: en, zh-cn
+    avatar: mm # Gravatar style
+    guest_info: nick # Custom comment header
+    pageSize: 10 # Pagination size
+    language: # Language, available values: en, zh-cn
+    visitor: true # Article reading statistic
+    comment_count: true # If false, comment count will only be displayed in post page, not in home page
+    recordIP: true # Whether to record the commenter IP
+
 
 #Analytics
 gauges_analytics: true
