@@ -2577,6 +2577,11 @@ pre .javascript .function {
   display: -ms-flexbox;
   display: box;
   display: flex;
+  -webkit-box-pack: justify;
+  -moz-box-pack: justify;
+  -ms-flex-pack: justify;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
   -webkit-box-align: center;
   -moz-box-align: center;
   -ms-flex-align: center;
@@ -3037,6 +3042,7 @@ input[type="range"] {
   flex-direction: column;
 }
 .recent-link .recent-link-text {
+  width: 125px;
   text-wrap: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;
