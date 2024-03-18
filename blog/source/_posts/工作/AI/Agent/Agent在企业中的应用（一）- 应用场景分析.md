@@ -2,7 +2,7 @@
 title: Agent在企业中的应用（一）- 应用场景分析
 date: 2023-12-06 12:00:00
 tags: [Agent]
-categories: [工作,AI,Agent]
+categories: [工作,AI]
 keywords: Agent
 description: 
 photos: [

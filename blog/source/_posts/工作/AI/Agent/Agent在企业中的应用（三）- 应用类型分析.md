@@ -2,7 +2,7 @@
 title: Agent在企业中的应用（三）- 应用类型分析
 date: 2023-12-06 14:00:00
 tags: [Agent]
-categories: [工作,AI,Agent]
+categories: [工作,AI]
 keywords: Agent
 description: 
 photos: [

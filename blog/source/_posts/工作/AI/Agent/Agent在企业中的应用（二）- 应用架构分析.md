@@ -2,7 +2,7 @@
 title: Agent在企业中的应用（二）- 应用架构分析
 date: 2023-12-06 13:00:00
 tags: [Agent]
-categories: [工作,AI,Agent]
+categories: [工作,AI]
 keywords: Agent
 description: 
 photos: [
